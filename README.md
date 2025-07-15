@@ -7,3 +7,5 @@ Computation of GCC on a very large length buffer by using small frames.
 I have also implemented different weight for the GCC : PHAT, CSPm and rhoCSP.</p>
 <p>These weights are described in this paper:
 Marinescu, R. S., Buzo, A., Cucu, H., & Burileanu, C. (2013). Applying the accumulation of cross-power spectrum technique for traditional generalized cross-correlation time delay estimation. International Journal On Advances in Telecommunications–IARIA, submitted invited paper.</p>
+
+<p>For C++, it requires Eigen library. The include directory must be updated in the project.</p>
